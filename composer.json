@@ -1,0 +1,19 @@
+{
+    "name": "nonzod/yii2-krumo",
+    "description": "Add krumo support",
+    "keywords": ["yii", "yii2", "krumo", "debug"],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nicola Tomassoni",
+            "email": "nicola@digisin.it"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {"nonzod\\": ""}
+    }
+}
